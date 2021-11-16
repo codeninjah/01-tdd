@@ -1,0 +1,26 @@
+{
+  "name": "01-tdd",
+  "version": "1.0.0",
+  "description": "Testa backend med TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+	"test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iths-jsu20sg-designprinciper/01-tdd.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "David Andersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iths-jsu20sg-designprinciper/01-tdd/issues"
+  },
+  "homepage": "https://github.com/Iths-jsu20sg-designprinciper/01-tdd#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
